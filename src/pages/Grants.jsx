@@ -8,6 +8,7 @@ function Grants() {
     document.title = "UDAO - Grants"
   }, []);
   
+
   return (
     <>
       <Navbar/>
